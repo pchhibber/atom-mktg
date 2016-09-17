@@ -8,6 +8,10 @@
 1. polymer themes
 1. Ux conferences
 1. Ux or web publications
+1. Static site builder lists
+1. Comparison sites
+1. Comments on blogs
+1. Landing page generators lists
 
 # Materials Required
 - VD Complete & available to see
