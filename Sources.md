@@ -6,6 +6,8 @@
 1. built with polymer
 1. material palette
 1. polymer themes
+1. Ux conferences
+1. Ux or web publications
 
 # Materials Required
 - VD Complete & available to see
