@@ -12,6 +12,7 @@
 1. Comparison sites
 1. Comments on blogs
 1. Landing page generators lists
+1. Web component library owners like predix, 
 
 # Materials Required
 - VD Complete & available to see
