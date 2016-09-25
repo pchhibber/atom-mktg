@@ -13,6 +13,12 @@
 1. Comments on blogs
 1. Landing page generators lists
 1. Web component library owners like predix, 
+1. kickstarter
+1. instructables
+1. hacker news
+1. product hunt
+1. web designer news
+1. indiegogo
 
 # Materials Required
 - VD Complete & available to see
