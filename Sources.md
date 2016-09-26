@@ -19,6 +19,7 @@
 1. product hunt
 1. web designer news
 1. indiegogo
+1. some from [this list](https://github.com/mateusortiz/webcomponents-the-right-way) 
 
 # Materials Required
 - VD Complete & available to see
