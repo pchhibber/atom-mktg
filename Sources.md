@@ -20,6 +20,7 @@
 1. web designer news
 1. indiegogo
 1. some from [this list](https://github.com/mateusortiz/webcomponents-the-right-way) 
+1. creators of electrode.io
 
 # Materials Required
 - VD Complete & available to see
